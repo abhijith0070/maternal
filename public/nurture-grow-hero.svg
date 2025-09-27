@@ -1,0 +1,87 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#FEF7F0"/>
+  
+  <!-- Title Text -->
+  <text x="100" y="120" font-family="Arial, sans-serif" font-size="42" font-weight="600" fill="#7AA2B8">Nurture &amp; Grow</text>
+  
+  <!-- Subtitle Text -->
+  <text x="100" y="160" font-family="Arial, sans-serif" font-size="18" fill="#9CA3AF">Your journey into parenthood,</text>
+  <text x="100" y="185" font-family="Arial, sans-serif" font-size="18" fill="#9CA3AF">supported every step.</text>
+  
+  <!-- Chair -->
+  <path d="M350 280 Q350 270 360 270 L520 270 Q530 270 530 280 L530 450 Q530 480 500 480 L380 480 Q350 480 350 450 Z" fill="#A4D4AE"/>
+  <rect x="350" y="480" width="180" height="40" rx="5" fill="#8BC299"/>
+  <!-- Chair legs -->
+  <rect x="370" y="520" width="8" height="60" rx="4" fill="#8B7355"/>
+  <rect x="502" y="520" width="8" height="60" rx="4" fill="#8B7355"/>
+  
+  <!-- Chair back -->
+  <path d="M530 280 Q530 250 560 250 L570 250 Q600 250 600 280 L600 420 Q600 440 580 440 L550 440 Q530 440 530 420 Z" fill="#A4D4AE"/>
+  
+  <!-- Mother -->
+  <!-- Body -->
+  <ellipse cx="440" cy="380" rx="50" ry="60" fill="#E8A598"/>
+  
+  <!-- Arms -->
+  <ellipse cx="400" cy="350" rx="15" ry="35" fill="#E8A598" transform="rotate(-20 400 350)"/>
+  <ellipse cx="480" cy="350" rx="15" ry="35" fill="#E8A598" transform="rotate(20 480 350)"/>
+  
+  <!-- Head -->
+  <circle cx="440" cy="280" r="35" fill="#E8A598"/>
+  
+  <!-- Hair -->
+  <path d="M410 260 Q415 240 440 240 Q465 240 470 260 Q475 270 470 290 Q465 310 440 310 Q415 310 410 290 Q405 270 410 260 Z" fill="#B8756A"/>
+  
+  <!-- Face features -->
+  <!-- Eyes (closed, peaceful) -->
+  <path d="M425 275 Q430 273 435 275" stroke="#8B7355" stroke-width="2" fill="none"/>
+  <path d="M445 275 Q450 273 455 275" stroke="#8B7355" stroke-width="2" fill="none"/>
+  
+  <!-- Smile -->
+  <path d="M430 290 Q440 295 450 290" stroke="#8B7355" stroke-width="2" fill="none"/>
+  
+  <!-- Baby -->
+  <circle cx="440" cy="340" r="20" fill="#F4C2A1"/>
+  <circle cx="440" cy="335" r="12" fill="#F4C2A1"/>
+  
+  <!-- Baby blanket -->
+  <path d="M420 340 Q420 360 440 365 Q460 360 460 340 Q460 330 440 325 Q420 330 420 340 Z" fill="#7AA2B8"/>
+  
+  <!-- Baby face -->
+  <circle cx="435" cy="332" r="1" fill="#8B7355"/>
+  <circle cx="445" cy="332" r="1" fill="#8B7355"/>
+  <path d="M435 340 Q440 342 445 340" stroke="#8B7355" stroke-width="1" fill="none"/>
+  
+  <!-- Plants -->
+  <!-- Left large plant -->
+  <rect x="80" y="420" width="40" height="60" rx="8" fill="#F4C2A1"/>
+  <ellipse cx="100" cy="400" rx="25" ry="40" fill="#A4D4AE"/>
+  <ellipse cx="85" cy="380" rx="20" ry="30" fill="#8BC299"/>
+  <ellipse cx="115" cy="390" rx="18" ry="25" fill="#8BC299"/>
+  
+  <!-- Shelf plants -->
+  <rect x="160" y="240" width="120" height="8" rx="4" fill="#E8D4B0"/>
+  <rect x="170" y="220" width="25" height="30" rx="5" fill="#F4C2A1"/>
+  <ellipse cx="182" cy="210" rx="12" ry="18" fill="#A4D4AE"/>
+  <ellipse cx="188" cy="200" rx="8" ry="12" fill="#8BC299"/>
+  
+  <rect x="220" y="225" width="20" height="25" rx="4" fill="#F4C2A1"/>
+  <ellipse cx="230" cy="215" rx="10" ry="15" fill="#8BC299"/>
+  
+  <!-- Right plants -->
+  <rect x="680" y="440" width="30" height="50" rx="6" fill="#F4C2A1"/>
+  <ellipse cx="695" cy="425" rx="15" ry="25" fill="#7AA2B8"/>
+  <ellipse cx="705" cy="415" rx="12" ry="20" fill="#A4D4AE"/>
+  
+  <rect x="730" y="450" width="25" height="40" rx="5" fill="#F4C2A1"/>
+  <ellipse cx="742" cy="435" rx="12" ry="18" fill="#8BC299"/>
+  
+  <!-- Decorative circles -->
+  <circle cx="600" cy="150" r="40" fill="#F9E8D8" opacity="0.6"/>
+  <circle cx="150" cy="100" r="30" fill="#E8F4FD" opacity="0.5"/>
+  <circle cx="700" cy="100" r="35" fill="#F0F8F0" opacity="0.7"/>
+  
+  <!-- Rug -->
+  <ellipse cx="440" cy="570" rx="120" ry="40" fill="#E8D4B0" opacity="0.8"/>
+</svg>
